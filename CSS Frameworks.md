@@ -1,4 +1,4 @@
-Here's a list of some of CSS most used frameworks:
+A categorized list of some of CSS frameworks
 
 
 ### 1. General Purpose Frameworks 
