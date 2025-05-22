@@ -4,7 +4,9 @@ This repository contains curated notes and summaries on various **Web Developmen
 
 ##### Available Frameworks
 
-- [CSS Frameworks](./CSS%20Frameworks.md) – A comprehensive guide to general-purpose, utility-first, component-based, and mobile-focused CSS frameworks.
+- [CSS Frameworks](./CSS%20Frameworks.md) – Covers the types of CSS frameworks: general-purpose, utility-first, component-based, and mobile-focused CSS frameworks.
+
+- [JavaScript Frameworks](./JavaScript%20Frameworks.md) - An overview on the types of frameworks used in JavaScript.
 
 <!-- Add more here as you create more files -->
 <!-- Example:
