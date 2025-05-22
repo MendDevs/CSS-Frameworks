@@ -1,4 +1,4 @@
-# 📦 JavaScript Frameworks
+# JavaScript Frameworks
 
 This document presents a categorized overview of the most popular JavaScript frameworks and libraries, both frontend and backend, along with their primary use cases and characteristics.
 
